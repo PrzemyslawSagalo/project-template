@@ -17,3 +17,11 @@ All other materials, including text, translations, descriptions, and documentati
 
 * **What this means:** You are free to share and adapt this content as long as you give appropriate credit and **do not use it for commercial purposes**.
 * **Full Text:** See the `LICENSE-CONTENT.md` file for details.
+
+## Ready to use copy commands
+```
+curl -o LICENSE https://raw.githubusercontent.com/PrzemyslawSagalo/project-template/refs/heads/main/LICENSE
+```
+```
+curl -o LICENSE-CONTENT.md https://raw.githubusercontent.com/PrzemyslawSagalo/project-template/refs/heads/main/LICENSE-CONTENT.md
+```
